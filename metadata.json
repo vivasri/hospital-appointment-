@@ -1,0 +1,5 @@
+{
+  "name": "AI Hospital Appointment Manager",
+  "description": "A smart appointment management system for hospitals, using AI to summarize schedules and understand natural language requests for booking appointments.",
+  "requestFramePermissions": []
+}
